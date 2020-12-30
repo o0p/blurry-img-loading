@@ -22,10 +22,10 @@ body {
     width: calc(100vw + 3.75rem);
     height: calc(100vw + 3.75rem);
     z-index: -1;
-    filter: blur(0rem);
+    filter: blur(0px);
 }
 
 .loading-text {
-    font-size: 3.125rem;
+    font-size: 50px;
     color: #fff;
 }
