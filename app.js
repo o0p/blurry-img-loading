@@ -9,5 +9,5 @@ function blurrying() {
     if (load > 99) {
         clearInterval(int);
     }
-    console.log(load);
+    loadText.innerText = `${load}%`;
 }
